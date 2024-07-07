@@ -26,7 +26,7 @@ In this project, you'll learn how to predict your local weather by following the
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/weather-prediction-ml.git
+git clone https://github.com/shivendra1-cyber/weather-prediction-ml.git
 cd weather-prediction-ml
 Next, you'll need to install the required dependencies. It's recommended to use a virtual environment to manage these dependencies. You can create one and install the dependencies by running:
 
